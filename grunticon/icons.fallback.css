@@ -1,0 +1,15 @@
+
+.icon-child {
+	background-image: url('png/child.png');
+	background-repeat: no-repeat;
+}
+
+.icon-folder-closed {
+	background-image: url('png/folder closed.png');
+	background-repeat: no-repeat;
+}
+
+.icon-folder-open {
+	background-image: url('png/folder open.png');
+	background-repeat: no-repeat;
+}
