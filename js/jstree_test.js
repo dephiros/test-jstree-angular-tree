@@ -3,7 +3,12 @@ $(function () {
     var testJsTree = $("#test-tree");
     testJsTree.jstree({
         "core": {
-            "data": window.testData
+            "data": window.testData,
+            "themes": {
+                "name": "default-dark",
+                "dots": true,
+                "icons": true
+            }
         },
         "plugins": [
             "checkbox",
